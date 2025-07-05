@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently actively looking for a new backend developer role
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaejieun&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/chaejieun?pet-id=727762168824244509"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaejieun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/chaejieun"
+  width="600"
+  height="300"
+/>
 </a>
-  
 
 
 
